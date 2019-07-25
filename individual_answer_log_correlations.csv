@@ -1,0 +1,1158 @@
+Question,Log,Mode,Correlation,P-Value,significance
+AverageResponses,Accepted_or_Rejected__Nothing,Baseline,0.19559228698933184,0.26015130704213346,-
+AverageResponses,Accepted_or_Rejected__Nothing,Delta_Social,0.7242325433372329,0.0010102299237177278,**
+AverageResponses,Accepted_or_Rejected__Nothing,Delta_Task,0.7024628894108205,0.0011513895833343856,**
+AverageResponses,Accepted_or_Rejected__Nothing,Social,0.6326971000800347,0.006416023737731751,**
+AverageResponses,Accepted_or_Rejected__Nothing,Task,0.6604177583603967,0.0028529067061396373,**
+AverageResponses,Accepted_or_Rejected__Word_length,Baseline,0.11985603951745788,0.4928362888505161,-
+AverageResponses,Accepted_or_Rejected__Word_length,Delta_Social,0.6881620167070454,0.0022590212053367597,**
+AverageResponses,Accepted_or_Rejected__Word_length,Delta_Task,0.5346570224201646,0.022253512553832785,*
+AverageResponses,Accepted_or_Rejected__Word_length,Social,0.6519871189038863,0.004566154590204576,**
+AverageResponses,Accepted_or_Rejected__Word_length,Task,0.5407369695409437,0.020500633763148743,*
+AverageResponses,Answer_Time__Nothing,Baseline,-0.17527244996307967,0.3138911420806142,-
+AverageResponses,Answer_Time__Nothing,Delta_Social,0.011077025851225504,0.9663441547041804,-
+AverageResponses,Answer_Time__Nothing,Delta_Task,-0.7168994646504879,0.0008137895551761753,***
+AverageResponses,Answer_Time__Nothing,Social,-0.285717752426482,0.2662717569685202,-
+AverageResponses,Answer_Time__Nothing,Task,-0.3838605702479398,0.11580826319019562,-
+AverageResponses,Answer_Time__Word_length,Baseline,-0.23674440873825284,0.17090852860321357,-
+AverageResponses,Answer_Time__Word_length,Delta_Social,0.01723092910190634,0.947666214917894,-
+AverageResponses,Answer_Time__Word_length,Delta_Task,-0.811447075205842,4.362235912634112e-05,***
+AverageResponses,Answer_Time__Word_length,Social,-0.27217079002695055,0.2905895570695172,-
+AverageResponses,Answer_Time__Word_length,Task,-0.5587188893096697,0.01594383041638433,*
+AverageResponses,Attempt_Duration__Nothing,Baseline,0.15417223528052593,0.37654832687364226,-
+AverageResponses,Attempt_Duration__Nothing,Delta_Social,0.3064643818839057,0.2315425702455462,-
+AverageResponses,Attempt_Duration__Nothing,Delta_Task,-0.009350862582397668,0.970624743170899,-
+AverageResponses,Attempt_Duration__Nothing,Social,0.20074135192033005,0.43978974443863084,-
+AverageResponses,Attempt_Duration__Nothing,Task,-0.34454331507429636,0.16147113304867483,-
+AverageResponses,Attempt_Duration__Word_length,Baseline,0.06934937225665992,0.6922131292769161,-
+AverageResponses,Attempt_Duration__Word_length,Delta_Social,0.4283116662473862,0.08629646314182975,-
+AverageResponses,Attempt_Duration__Word_length,Delta_Task,-0.20364100734999366,0.4176553107589752,-
+AverageResponses,Attempt_Duration__Word_length,Social,0.3152747612981871,0.21771178378478706,-
+AverageResponses,Attempt_Duration__Word_length,Task,-0.3838605702479398,0.11580826319019562,-
+AverageResponses,Sent_Word_Duration__Nothing,Baseline,0.06316439938193263,0.718492198087674,-
+AverageResponses,Sent_Word_Duration__Nothing,Delta_Social,0.7335452674811557,0.0008045121170977373,***
+AverageResponses,Sent_Word_Duration__Nothing,Delta_Task,0.16415958755764798,0.515105524470723,-
+AverageResponses,Sent_Word_Duration__Nothing,Social,0.7931130713907518,0.000145655140532384,***
+AverageResponses,Sent_Word_Duration__Nothing,Task,-0.30212206607115477,0.22303350846071027,-
+AverageResponses,Sent_Word_Duration__Word_length,Baseline,-0.01589549506085714,0.9277870995887181,-
+AverageResponses,Sent_Word_Duration__Word_length,Delta_Social,0.7298529255307472,0.0008814694414812491,***
+AverageResponses,Sent_Word_Duration__Word_length,Delta_Task,0.0020779694627550377,0.993470899037821,-
+AverageResponses,Sent_Word_Duration__Word_length,Social,0.799270781572357,0.00011837520099238005,***
+AverageResponses,Sent_Word_Duration__Word_length,Task,-0.3590286196119544,0.14341715532338356,-
+AverageResponses,Time_To_Start__Nothing,Baseline,0.05064051523812896,0.7726592362552789,-
+AverageResponses,Time_To_Start__Nothing,Delta_Social,-0.18954022012096974,0.4662382287956023,-
+AverageResponses,Time_To_Start__Nothing,Delta_Task,0.01766274043341782,0.9445424589034681,-
+AverageResponses,Time_To_Start__Nothing,Social,-0.21305677228354045,0.41162672131617817,-
+AverageResponses,Time_To_Start__Nothing,Task,-0.28970609075316206,0.24357438661562572,-
+AverageResponses,Time_To_Start__Word_length,Baseline,0.0008440085873021491,0.99616069431792,-
+AverageResponses,Time_To_Start__Word_length,Delta_Social,-0.20923271052314846,0.42026710148877855,-
+AverageResponses,Time_To_Start__Word_length,Delta_Task,-0.0831187785102015,0.7429915070250162,-
+AverageResponses,Time_To_Start__Word_length,Social,-0.26601307984534533,0.3020706601797156,-
+AverageResponses,Time_To_Start__Word_length,Task,-0.3476473089037945,0.1574783745543716,-
+AverageResponses,n_erased__Attempt_Duration,Baseline,-0.06247413767044349,0.7214454732345466,-
+AverageResponses,n_erased__Attempt_Duration,Delta_Social,-0.4738505503024244,0.05467077623747071,-
+AverageResponses,n_erased__Attempt_Duration,Delta_Task,-0.17178741372946502,0.49548997227376956,-
+AverageResponses,n_erased__Attempt_Duration,Social,-0.5381838698722958,0.02584155103013062,*
+AverageResponses,n_erased__Attempt_Duration,Task,-0.07153966746666757,0.7778756901530729,-
+AverageResponses,n_erased__Nothing,Baseline,-0.06043555525479973,0.7301905253033363,-
+AverageResponses,n_erased__Nothing,Delta_Social,-0.03822453053677366,0.884196625407011,-
+AverageResponses,n_erased__Nothing,Delta_Task,-0.27400894785423363,0.27120523565379584,-
+AverageResponses,n_erased__Nothing,Social,-0.14435602293257666,0.5804220532511721,-
+AverageResponses,n_erased__Nothing,Task,-0.2188154417029624,0.38301787930555975,-
+AverageResponses,n_erased__Word_length,Baseline,-0.07451507326398278,0.6705309601413272,-
+AverageResponses,n_erased__Word_length,Delta_Social,-0.08615464550953171,0.7423225125479487,-
+AverageResponses,n_erased__Word_length,Delta_Task,-0.29114836067382255,0.24112882599626004,-
+AverageResponses,n_erased__Word_length,Social,-0.17857359526655128,0.49287727554946525,-
+AverageResponses,n_erased__Word_length,Task,-0.2007261410788382,0.4244936789511683,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,Baseline,0.08896042154121497,0.6113181461350795,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.6500144103866492,0.0047327040936539,**
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.06945745773728994,0.7841939155086045,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,Delta_Social,0.6035191558579743,0.01031405069202597,*
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,Delta_Task,0.0388827610423048,0.8782566901447321,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,Social,0.43362657373336305,0.0820479160261865,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Nothing,Task,0.21627209630135927,0.388709496710657,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,Baseline,0.0867901665153745,0.6200726753780776,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.5983672432051761,0.011165073945712855,*
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.005236642894500179,0.9835470503142048,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,Delta_Social,0.5554350643204997,0.020628341449901298,*
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,Delta_Task,-0.052447933163887496,0.8362564055422714,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,Social,0.4328168128517073,0.08268519959242171,-
+I enjoyed teaching Blueberry how to write in a group,Accepted_or_Rejected__Word_length,Task,0.09477808716133955,0.7083408140992714,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,Baseline,-0.09449762657743437,0.589222612703115,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,"Delta Logs, Delta_Social",0.08656239293352659,0.7411421583052396,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.2849549041962397,0.25174150416441654,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,Delta_Social,0.05992781049244148,0.8192789541894689,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,Delta_Task,-0.35161866618710313,0.15246904109162096,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,Social,-0.20871733771961853,0.4214388196486757,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Nothing,Task,-0.17385092967852253,0.490246169545561,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,Baseline,-0.0841887945871688,0.63063425546696,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.08123547644530957,0.7566047264815201,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.3084832907812503,0.21295700285242145,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,Delta_Social,0.026634582441085106,0.9191776603833333,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,Delta_Task,-0.48494619016882995,0.0413704680354308,*
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,Social,-0.17672416916405656,0.4974404225139515,-
+I enjoyed teaching Blueberry how to write in a group,Answer_Time__Word_length,Task,-0.37793680364896204,0.122021130913256,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,Baseline,0.111869917523993,0.5222970057951342,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.1904372644537585,0.46409145159504916,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",0.12809899362950225,0.6124660997239755,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,Delta_Social,0.2383795128477117,0.35685184094207334,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,Delta_Task,0.2365909984381623,0.3445448734974167,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,Social,0.27879761169846856,0.2785320889763507,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Nothing,Task,0.0075587360729792415,0.9762529380613245,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,Baseline,0.07387996259690323,0.6731830923111034,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",-0.03595668629546489,0.8910275362838351,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.02614265176112291,0.9179882702556346,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,Delta_Social,0.33959092612383507,0.18234779701264284,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,Delta_Task,0.1385560543339514,0.5834873774041778,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,Social,0.37020666471435987,0.14354879129136536,-
+I enjoyed teaching Blueberry how to write in a group,Attempt_Duration__Word_length,Task,0.0075587360729792415,0.9762529380613245,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,Baseline,-0.1067229753882754,0.5417304352474128,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.4847494004277489,0.048597805337281016,*
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.12940612621755837,0.6088125103691602,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,Delta_Social,0.6339030620978255,0.006285093717989162,**
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,Delta_Task,-0.0287569169372352,0.9098172742452768,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,Social,0.5515012865292109,0.021737743346274527,*
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Nothing,Task,-0.18896840182448102,0.4526682891047513,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,Baseline,-0.13019672995113177,0.4559921937129613,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.40085046573833083,0.11080751000323816,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",0.05228530352224582,0.8367576737938471,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,Delta_Social,0.6152588543890659,0.008566905970706843,**
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,Delta_Task,-0.16208444091896204,0.5205040924340167,-
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,Social,0.5515012865292109,0.021737743346274527,*
+I enjoyed teaching Blueberry how to write in a group,Sent_Word_Duration__Word_length,Task,-0.28534228675496637,0.2510692360549012,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,Baseline,0.15692333140737585,0.3679870548800569,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.4128360278368191,0.09957031866514493,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.04052111022974051,0.8731653895053761,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,Delta_Social,-0.20109109743019254,0.4389765627741631,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,Delta_Task,0.06797089457891957,0.788712614062688,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,Social,-0.28336806434926315,0.2703967413507688,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Nothing,Task,-0.015117472145958483,0.9525248637572927,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,Baseline,0.1389783275724691,0.425903150862611,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.46344173447488085,0.06098295213648397,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.02614265176112291,0.9179882702556346,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,Delta_Social,-0.21840357601689786,0.39970575877746406,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,Delta_Task,-0.06797089457891957,0.788712614062688,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,Social,-0.274227159047674,0.2868148740318052,-
+I enjoyed teaching Blueberry how to write in a group,Time_To_Start__Word_length,Task,-0.08692546483926127,0.7316229164825416,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,Baseline,0.007447353934315987,0.9661323564783755,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.3981870074942223,0.11342153054003817,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.009168872087224552,0.9711962305128786,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,Delta_Social,-0.4341436937896872,0.08164281133100942,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,Delta_Task,0.25803825731189095,0.3012247443791629,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,Social,-0.3564953067619762,0.16015107774825618,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Attempt_Duration,Task,0.043552717469211646,0.8637570625715154,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,Baseline,0.011184361024162882,0.9491562024872773,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,"Delta Logs, Delta_Social",-0.2663458244108511,0.3014434442305951,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,"Delta Logs, Delta_Task",-0.037985327218501716,0.8810474778887886,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,Delta_Social,-0.03202041418470159,0.9029008328957462,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,Delta_Task,0.1956735762813828,0.43648576702966424,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,Social,0.01678921733667736,0.9490061223527253,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Nothing,Task,-0.0104418668647749,0.9671990615254036,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,Baseline,0.009931197046903227,0.9548468811363047,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,"Delta Logs, Delta_Social",-0.2623506370446883,0.3090255992999699,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,"Delta Logs, Delta_Task",-0.018337744174449104,0.9424263427729194,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,Delta_Social,-0.08523066381147233,0.7449992770897426,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,Delta_Task,0.1729883853079674,0.4924347824081221,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,Social,-0.015234842169315222,0.9537222355397876,-
+I enjoyed teaching Blueberry how to write in a group,n_erased__Word_length,Task,-0.028418674694154305,0.9108739965472712,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,Baseline,0.1336332055168621,0.444083983183323,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.38673940466404655,0.12515212201608808,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.11956547365199773,0.636529271242301,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,Delta_Social,0.17666631333439334,0.49758349626266474,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,Delta_Task,0.034358153126353215,0.8923403265980165,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,Social,0.10301327744925143,0.6940003274873203,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Nothing,Task,0.23569498597116972,0.3464289478502999,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,Baseline,0.060653558668657,0.7292537189142646,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.30564976687205925,0.23284893249494643,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.06825236327899352,0.7878565378356387,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,Delta_Social,0.11755760264309971,0.6531817812050619,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,Delta_Task,-0.034179296351233165,0.8928977071439334,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,Social,0.10282090888278797,0.694545868371871,-
+I enjoyed writing on the tablet,Accepted_or_Rejected__Word_length,Task,0.16412762703128408,0.5151884713600483,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,Baseline,0.12208183222695076,0.4847796027512943,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,"Delta Logs, Delta_Social",0.25671801540513517,0.31990509629797187,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.1022199413454573,0.6865010272445284,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,Delta_Social,0.24504901470490176,0.3431462655913279,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,Delta_Task,-0.2044398826909146,0.41579141308263934,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,Social,-0.10206207261596575,0.696699244080777,-
+I enjoyed writing on the tablet,Answer_Time__Nothing,Task,-0.07012230125638468,0.7821751087521553,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,Baseline,0.08783445354942333,0.6158536460089123,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,"Delta Logs, Delta_Social",0.23338001400466835,0.36732490019556807,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.1362932551272764,0.5897089668473676,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,Delta_Social,0.28589051715571867,0.2659700003260857,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,Delta_Task,-0.1362932551272764,0.5897089668473676,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,Social,-0.05103103630798288,0.8457801257277214,-
+I enjoyed writing on the tablet,Answer_Time__Word_length,Task,-0.21036690376915404,0.4021020578778828,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,Baseline,-0.057213267908339964,0.7440815003399858,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.3267320196065357,0.200538333352475,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",0.0681466275636382,0.7881781018728292,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,Delta_Social,0.4025805241580529,0.10913255139137473,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,Delta_Task,-0.0681466275636382,0.7881781018728292,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,Social,0.3572172541558802,0.1592459066983779,-
+I enjoyed writing on the tablet,Attempt_Duration__Nothing,Task,0.3506115062819234,0.15372894485002397,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,Baseline,-0.07776169511485642,0.6570351984246348,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",0.2217110133044349,0.39242591209752387,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.1022199413454573,0.6865010272445284,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,Delta_Social,0.4667600280093367,0.0589148094799619,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,Delta_Task,-0.30665982403637193,0.21581458833407338,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,Social,0.408248290463863,0.10377091535383602,-
+I enjoyed writing on the tablet,Attempt_Duration__Word_length,Task,0.3506115062819234,0.15372894485002397,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,Baseline,0.03686887781511095,0.8334576982958245,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.3267320196065357,0.200538333352475,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.0340733137818191,0.8932280086145878,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,Delta_Social,0.16336600980326785,0.5309864784494774,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,Delta_Task,-0.0340733137818191,0.8932280086145878,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,Social,0.2041241452319315,0.431957080956069,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Nothing,Task,0.11687050209397445,0.6442026246677142,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,Baseline,-0.037067751039206176,0.8325720165559989,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.25671801540513517,0.31990509629797187,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.1362932551272764,0.5897089668473676,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,Delta_Social,0.11669000700233417,0.6555921152214674,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,Delta_Task,-0.0681466275636382,0.7881781018728292,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,Social,0.2041241452319315,0.431957080956069,-
+I enjoyed writing on the tablet,Sent_Word_Duration__Word_length,Task,-0.023374100418794893,0.9266500112348955,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,Baseline,-0.09287083276670677,0.5956776219590415,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.023338001400466834,0.9291558341268801,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.2725865102545528,0.27380095167874935,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,Delta_Social,0.19253851155385138,0.45908218278473145,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,Delta_Task,0.23851319647273372,0.3405229657945542,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,Social,0.15309310892394865,0.5574624351198403,-
+I enjoyed writing on the tablet,Time_To_Start__Nothing,Task,-0.2571151046067438,0.3030186296827211,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,Baseline,-0.14081716291524518,0.4197457538807703,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,"Delta Logs, Delta_Social",0.04667600280093367,0.8588116291446034,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.23851319647273372,0.3405229657945542,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,Delta_Social,0.2158765129543182,0.4053166033608493,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,Delta_Task,0.0681466275636382,0.7881781018728292,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,Social,0.15309310892394865,0.5574624351198403,-
+I enjoyed writing on the tablet,Time_To_Start__Word_length,Task,-0.2571151046067438,0.3030186296827211,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,Baseline,0.22125976143005696,0.2014777812022859,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",0.12835900770256758,0.623451087598694,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.1707192951022445,0.49821484559584983,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,Delta_Social,-0.017503501050350125,0.9468394494133474,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,Delta_Task,-0.27315087216359124,0.2727692564221872,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,Social,-0.05103103630798288,0.8457801257277214,-
+I enjoyed writing on the tablet,n_erased__Attempt_Duration,Task,0.35133741079873654,0.15282016081774077,-
+I enjoyed writing on the tablet,n_erased__Nothing,Baseline,0.19065571693022018,0.2726098243977736,-
+I enjoyed writing on the tablet,n_erased__Nothing,"Delta Logs, Delta_Social",0.23921451435478505,0.3551192577381581,-
+I enjoyed writing on the tablet,n_erased__Nothing,"Delta Logs, Delta_Task",0.0,1.0,-
+I enjoyed writing on the tablet,n_erased__Nothing,Delta_Social,0.23965546314256395,0.35420623512631433,-
+I enjoyed writing on the tablet,n_erased__Nothing,Delta_Task,-0.2738612787525831,0.27147399738443767,-
+I enjoyed writing on the tablet,n_erased__Nothing,Social,0.15337530844256644,0.5567275247519647,-
+I enjoyed writing on the tablet,n_erased__Nothing,Task,0.35225116373539667,0.15168145437133715,-
+I enjoyed writing on the tablet,n_erased__Word_length,Baseline,0.19045517441450177,0.2731240257607117,-
+I enjoyed writing on the tablet,n_erased__Word_length,"Delta Logs, Delta_Social",0.2158765129543182,0.4053166033608493,-
+I enjoyed writing on the tablet,n_erased__Word_length,"Delta Logs, Delta_Task",0.0,1.0,-
+I enjoyed writing on the tablet,n_erased__Word_length,Delta_Social,0.2158765129543182,0.4053166033608493,-
+I enjoyed writing on the tablet,n_erased__Word_length,Delta_Task,-0.2732925112045662,0.27251070705658587,-
+I enjoyed writing on the tablet,n_erased__Word_length,Social,0.15309310892394865,0.5574624351198403,-
+I enjoyed writing on the tablet,n_erased__Word_length,Task,0.35151959251219767,0.15259266159214244,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,Baseline,0.013395023513989357,0.939123675234343,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.3830385491170221,0.1291190417597632,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.43480572282056085,0.07135233611563628,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,Delta_Social,0.35612209477406653,0.16062037023754427,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,Delta_Task,0.2267522419371079,0.36555570315751873,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,Social,0.20316626033455232,0.43416762450421664,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Nothing,Task,0.4697010725840093,0.049213836507899004,*
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,Baseline,-0.026771144854576233,0.8786699862594727,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.34246385822608255,0.178438832736713,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.5308787979724242,0.023400579473289853,*
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,Delta_Social,0.3554570669392673,0.1614589085601059,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,Delta_Task,0.29002094671369905,0.24303916997655914,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,Social,0.20278686455934697,0.43504478474142383,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Accepted_or_Rejected__Word_length,Task,0.4189191452531209,0.08356658081996769,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,Baseline,0.1867275359327644,0.2827970179268152,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.027637106921605457,0.9161453887384104,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,"Delta Logs, Delta_Task",0.2569970264812942,0.3032485423360842,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,Delta_Social,-0.11791832286551662,0.6521805886591143,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,Delta_Task,0.19274776986097067,0.4435096975435413,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,Social,-0.35882177153217754,0.1572466038497123,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Nothing,Task,-0.13794693333187114,0.5851594436380839,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,Baseline,0.10670144910443681,0.5418124290488416,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.05527421384321091,0.8331195550347034,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,"Delta Logs, Delta_Task",0.22487239817113244,0.3696504936380537,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,Delta_Social,-0.11423337527596922,0.6624344623919367,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,Delta_Task,0.22487239817113244,0.3696504936380537,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,Social,-0.3194388941688897,0.21136417624115042,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Answer_Time__Word_length,Task,-0.1984168219157051,0.4299530505257816,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,Baseline,0.11559323652980655,0.5084551975180844,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.11054842768642183,0.6727453474464117,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",0.22487239817113244,0.3696504936380537,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,Delta_Social,0.3850770231077027,0.12692335064375423,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,Delta_Task,0.35337091141177956,0.150294006405313,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,Social,0.2756801415430144,0.2841657383790207,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Nothing,Task,0.33069470319284183,0.1801236182523689,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,Baseline,0.07113429940295786,0.6846928978502169,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",-0.020267211742510668,0.9384595929331347,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",0.19274776986097067,0.4435096975435413,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,Delta_Social,0.4163990776188556,0.0963927781072095,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,Delta_Task,0.28912165479145596,0.2445698355364675,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,Social,0.3150630189063022,0.21803779545951305,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Attempt_Duration__Word_length,Task,0.258886710499539,0.2995816584923892,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,Baseline,-0.16895579313450168,0.33191998456021077,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.2782135430108283,0.2795823521413279,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.19274776986097067,0.4435096975435413,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,Delta_Social,0.3740221803390605,0.13914760743855764,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,Delta_Task,0.4497447963422649,0.06112050206503491,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,Social,0.3325665199566523,0.19214345846741684,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Nothing,Task,0.3495915433752899,0.1550121225406816,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,Baseline,-0.19561932335813415,0.26008412728961583,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.1953022222460119,0.4525352059304891,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",0.09637388493048533,0.7036386476374066,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,Delta_Social,0.3740221803390605,0.13914760743855764,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,Delta_Task,0.4497447963422649,0.06112050206503491,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,Social,0.3325665199566523,0.19214345846741684,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Sent_Word_Duration__Word_length,Task,0.25321765844480454,0.3106626534921414,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,Baseline,0.11559323652980655,0.5084551975180844,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.29111085957424415,0.256951461714796,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.4176201680321031,0.08462872784341276,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,Delta_Social,0.2874259119846968,0.2632974958126446,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,Delta_Task,0.4497447963422649,0.06112050206503491,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,Social,0.3281906446940648,0.19841752686595926,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Nothing,Task,0.020786524200692914,0.9347526699964603,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,Baseline,0.08891787425369735,0.6114892736138988,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.29111085957424415,0.256951461714796,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.38549553972194134,0.1141337537363698,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,Delta_Social,0.2874259119846968,0.2632974958126446,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,Delta_Task,0.48186942465242666,0.04287077495296311,*
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,Social,0.29318364259336455,0.25342398865415794,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,Time_To_Start__Word_length,Task,0.0566905205473443,0.8232013482014056,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,Baseline,0.11562562919865868,0.5083355850400918,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.2561038574735439,0.32110474306525855,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.3219113899898252,0.1926734477574945,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,Delta_Social,-0.16950758911918012,0.515436674004481,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,Delta_Task,-0.03219113899898252,0.8990966641538864,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,Social,-0.28443189206818953,0.2685243105151141,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Attempt_Duration,Task,0.11550938111399611,0.6480912333418211,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,Baseline,0.1024062637349809,0.5582899135033639,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,"Delta Logs, Delta_Social",-0.05895916143275831,0.8221558658097231,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,"Delta Logs, Delta_Task",0.41848480698677276,0.08392064086810168,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,Delta_Social,0.13567144960959007,0.6036279066650341,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,Delta_Task,0.19364916731037085,0.4413395432233367,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,Social,-0.05699123818634141,0.8280072136187382,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Nothing,Task,0.15188169985127126,0.5474231423181459,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,Baseline,0.08895525826806869,0.6113389120185535,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,"Delta Logs, Delta_Social",-0.05895916143275831,0.8221558658097231,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,"Delta Logs, Delta_Task",0.38629366798779025,0.11332259972446958,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,Delta_Social,0.12160327045506401,0.6419852853172949,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,Delta_Task,0.19324698792024927,0.4423071288465339,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,Social,-0.0568863784136379,0.8283192425464332,-
+I enjoyed writing with Blueberry and a group of friends on the tablet,n_erased__Word_length,Task,0.15156626503548962,0.5482651719993947,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,Baseline,-0.13265478754772617,0.447457078146532,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.616273264678871,0.008427814340691467,**
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.1438892312795285,0.5689342681366203,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,Delta_Social,0.7210647761020508,0.0010893954079354712,**
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,Delta_Task,0.4730719824858833,0.047389815861434204,*
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,Social,0.44940789678234977,0.0703283990964069,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Nothing,Task,0.7141600581582033,0.000870539557197575,***
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,Baseline,-0.15625887331272137,0.3700441498610697,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.573846782249922,0.016009455000360096,*
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.035935050111469746,0.8874282668460651,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,Delta_Social,0.679876702822416,0.0026762496957306943,**
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,Delta_Task,0.4073524575416102,0.09337362822354738,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,Social,0.3961044941999687,0.11549545585746103,-
+I found it easy to teach Blueberry how to write with a group of friends,Accepted_or_Rejected__Word_length,Task,0.6906036170428859,0.0015092419475814319,**
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,Baseline,-0.165653549784216,0.3415939807953723,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.1313997857891697,0.6151771786776568,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.3555320379556156,0.14764095183655848,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,Delta_Social,-0.09185227744485648,0.7258792092436315,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,Delta_Task,-0.6045131899184167,0.007874026397802058,**
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,Social,0.0,1.0,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Nothing,Task,-0.39768313723632004,0.10218990746196988,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,Baseline,-0.20997313985806326,0.22602716542900742,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.23600932399025626,0.36179576789733014,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.32943794342676314,0.18188481075473822,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,Delta_Social,-0.08292219491549543,0.7516988950609838,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,Delta_Task,-0.663224902608335,0.002696726216503872,**
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,Social,0.1432116858383027,0.5834582817606212,-
+I found it easy to teach Blueberry how to write with a group of friends,Answer_Time__Word_length,Task,-0.47144694494950845,0.048262621939407176,*
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,Baseline,-0.08079243305265271,0.6445322863375286,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.16329293767974487,0.5311727627780194,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",-0.265289961043334,0.28735587472089263,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,Delta_Social,0.1709472941334829,0.5118224362971494,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,Delta_Task,0.12829596476685823,0.6119149826045504,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,Social,0.3176695576776897,0.21404645463208763,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Nothing,Task,-0.1870821210117097,0.457275114755058,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,Baseline,-0.12874477641124155,0.4610745377149307,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",-0.1530871290747608,0.557478012554649,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.42294178215515127,0.08033911145731336,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,Delta_Social,0.2615238455027164,0.31060867103854056,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,Delta_Task,0.059798966628620366,0.8136639746797728,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,Social,0.4673908655995517,0.05852760644282638,-
+I found it easy to teach Blueberry how to write with a group of friends,Attempt_Duration__Word_length,Task,-0.15607994095834066,0.5362716155394422,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,Baseline,-0.13885355452158232,0.42632276985886275,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.5370806778372859,0.026206611902078437,*
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",-0.30986737253012375,0.21080451832004274,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,Delta_Social,0.6863406286851776,0.0023458387549854724,**
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,Delta_Task,0.1533028053570086,0.5436367864394145,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,Social,0.5402986329354148,0.025152753546569557,*
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Nothing,Task,-0.03420930212785549,0.8928041952616833,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,Baseline,-0.2012545319746835,0.2463313433142183,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.4630885654511514,0.06120619306467662,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.4164182585229381,0.08562024654944732,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,Delta_Social,0.6863406286851776,0.0023458387549854724,**
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,Delta_Task,0.0663224902608335,0.7937307686643171,-
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,Social,0.5272793887682964,0.029627722030633772,*
+I found it easy to teach Blueberry how to write with a group of friends,Sent_Word_Duration__Word_length,Task,-0.014966569680936775,0.9529982623885465,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,Baseline,-0.09285317395799475,0.5957478593617913,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.48222445658549656,0.049957313695898155,*
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.11742342537983634,0.6426254692760827,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,Delta_Social,-0.3329645057376048,0.1915793925479459,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,Delta_Task,-0.13808125021517795,0.5847905647140581,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,Social,-0.12498474400433691,0.6326824630976771,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Nothing,Task,-0.38699273032136516,0.11261550102244246,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,Baseline,-0.0922719334324361,0.5980617338527232,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.4707429219048895,0.05650178961720247,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.11633617144113417,0.6457281216665014,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,Delta_Social,-0.387820726989394,0.12400930086593648,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,Delta_Task,-0.25115565984020555,0.3147528363186855,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,Social,-0.13540013933803166,0.6043588437402747,-
+I found it easy to teach Blueberry how to write with a group of friends,Time_To_Start__Word_length,Task,-0.42975435798118455,0.07508291330245552,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,Baseline,-0.09273384333218067,0.5962225878556502,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.4516070307705443,0.06879858548363296,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.16887327259181767,0.5029411249977166,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,Delta_Social,-0.43629831786306833,0.07997053142318179,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,Delta_Task,-0.23969109658193474,0.3380718646247637,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,Social,-0.22393099967443697,0.38758030485659356,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Attempt_Duration,Task,-0.2881673337014479,0.2462008277279875,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,Baseline,-0.1615319677782211,0.3539068904664431,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,"Delta Logs, Delta_Social",-0.3418945882669658,0.17920891784559415,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,"Delta Logs, Delta_Task",-0.21354297695481458,0.3948681894827947,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,Delta_Social,-0.11183179406190005,0.6691479767007574,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,Delta_Task,-0.3129549952274299,0.20605405979862595,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,Social,0.1291281036630265,0.6213543138767552,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Nothing,Task,-0.38021020589201954,0.11960961751684379,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,Baseline,-0.14944161886158125,0.39154083920462424,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,"Delta Logs, Delta_Social",-0.391647905216263,0.12002304506890257,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,"Delta Logs, Delta_Task",-0.21354297695481458,0.3948681894827947,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,Delta_Social,-0.16456866375536786,0.5279248007289115,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,Delta_Task,-0.33846671448707266,0.16948604736776035,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,Social,0.09373855800325269,0.7204598871858197,-
+I found it easy to teach Blueberry how to write with a group of friends,n_erased__Word_length,Task,-0.3611998063166305,0.14083690553705136,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,Baseline,-0.06520994826544989,0.7097640134808203,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.7023026071908204,0.0016703763489647632,**
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.19077509219500532,0.44827813897740176,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,Delta_Social,0.7143601770928824,0.0012739107857728876,**
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,Delta_Task,0.4891408848923096,0.039390016362622994,*
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,Social,0.6617653304156195,0.0038091150602928706,**
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Nothing,Task,0.20258329317278215,0.4201299392384593,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,Baseline,-0.03213359341649611,0.8546034799235436,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.7123690030188945,0.0013334152212654672,**
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.10790444373286696,0.6699752871845388,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,Delta_Social,0.6749104853324767,0.002955099008761131,**
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,Delta_Task,0.3704570928973554,0.13019684540801352,-
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,Social,0.6605295397379567,0.003898739351497362,**
+I think I helped the group teach Blueberry how to write,Accepted_or_Rejected__Word_length,Task,0.1316806937724387,0.6024758211572587,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,Baseline,-0.20432350410264738,0.2390497909359359,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.12785412609655133,0.6248290274261035,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.4277330798292829,0.076615214343998,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,Delta_Social,0.15916534065080884,0.5417432585241151,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,Delta_Task,-0.4481013217259153,0.06218903098216538,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,Social,-0.41249800036080064,0.0998756083330342,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Nothing,Task,0.0,1.0,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,Baseline,-0.1812403093971734,0.2974339704219963,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.20352289460267362,0.4333439241934608,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.4255890543664794,0.0782655664844262,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,Delta_Social,0.07045023274707932,0.7881745607038024,-
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,Delta_Task,-0.48669378005637703,0.04053634410668709,*
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,Social,-0.5340763583618787,0.02722100718858671,*
+I think I helped the group teach Blueberry how to write,Answer_Time__Word_length,Task,-0.04337696053310002,0.8643020448398117,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,Baseline,0.08712044453356321,0.618737018922477,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.018264875156650193,0.9445303229801099,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",-0.49205384371338556,0.03805799362465984,*
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,Delta_Social,0.03131121455425747,0.9050421902202435,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,Delta_Task,-0.3912846469616247,0.10834288619017444,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,Social,0.12592044221540233,0.6301173467624189,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Nothing,Task,-0.46801457417292125,0.050146104089706246,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,Baseline,0.09218385498508654,0.5984127067483276,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",-0.1669931442893732,0.521777259904544,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.575670836762719,0.01242134465957224,*
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,Delta_Social,0.13307266185559427,0.6106438556458813,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,Delta_Task,-0.47490164001095825,0.04642148732273106,*
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,Social,0.15631503171567185,0.5490971129980593,-
+I think I helped the group teach Blueberry how to write,Attempt_Duration__Word_length,Task,-0.4748635679413055,0.04644148235454137,*
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,Baseline,0.08236064951010486,0.6380999930992541,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.5283767456030949,0.029228479160662513,*
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",-0.35269218863116303,0.15113394647811276,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,Delta_Social,0.60926404986826,0.009426785098048923,**
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,Delta_Task,-0.033232394673453056,0.8958493753151169,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,Social,0.7077597269348475,0.0014799799664527947,**
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Nothing,Task,-0.18492283174637378,0.4625777222799864,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,Baseline,0.07252590852623125,0.6788503548499407,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.4487940752776905,0.07075982308105264,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.39664471061863327,0.10317102490714603,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,Delta_Social,0.60926404986826,0.009426785098048923,**
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,Delta_Task,-0.1415056805450259,0.5754191117551875,-
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,Social,0.7077597269348475,0.0014799799664527947,**
+I think I helped the group teach Blueberry how to write,Sent_Word_Duration__Word_length,Task,-0.2397147818934475,0.33802268283863324,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,Baseline,-0.050038409167995276,0.7752925365849397,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.20352289460267362,0.4333439241934608,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.07075284027251295,0.7802616909487025,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,Delta_Social,-0.07045023274707932,0.7881745607038024,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,Delta_Task,-0.05252862383868386,0.8360077174686389,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,Social,-0.0955258527151328,0.7153365317975862,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Nothing,Task,-0.04337696053310002,0.8643020448398117,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,Baseline,-0.04229436965390077,0.8093710645935098,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.22961557339788816,0.37532257651044176,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.05252862383868386,0.8360077174686389,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,Delta_Social,-0.12133095639774773,0.6427366702941916,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,Delta_Task,-0.06539277661550441,0.796564466115782,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,Social,-0.16934128435864448,0.5158549288701162,-
+I think I helped the group teach Blueberry how to write,Time_To_Start__Word_length,Task,-0.0479429563786895,0.8501635128683257,-
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,Baseline,-0.030388976219944384,0.8624201927041969,-
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.5035887007476411,0.039313852247512424,*
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.05048891442621981,0.8422985686027721,-
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,Delta_Social,-0.551860156518788,0.021634651657276818,*
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,Delta_Task,-0.10527475773977747,0.6776028199133075,-
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,Social,-0.699075558506199,0.001792124724514192,**
+I think I helped the group teach Blueberry how to write,n_erased__Attempt_Duration,Task,-0.22877246316287006,0.36118376378139483,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,Baseline,0.01230432445602393,0.9440724778289886,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,"Delta Logs, Delta_Social",-0.38617164616917554,0.125755104166601,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,"Delta Logs, Delta_Task",-0.3276408276595115,0.1844232098852318,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,Delta_Social,-0.2966978069167678,0.24751292170708594,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,Delta_Task,-0.2207903440388346,0.37863033233002485,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,Social,-0.36540739729087407,0.1492192273415917,-
+I think I helped the group teach Blueberry how to write,n_erased__Nothing,Task,-0.28670931383498977,0.24870592355958768,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,Baseline,-0.015494590728719802,0.9296038265625004,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,"Delta Logs, Delta_Social",-0.39399944980773993,0.11761879938152021,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,"Delta Logs, Delta_Task",-0.3426800787651941,0.16390070299764914,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,Delta_Social,-0.3352909225185072,0.1883039868588712,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,Delta_Task,-0.18916290831730107,0.4521945999933985,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,Social,-0.40815591614647645,0.10385676799628574,-
+I think I helped the group teach Blueberry how to write,n_erased__Word_length,Task,-0.24033564483927336,0.33673496055388497,-
+I think the robot was a good student,Accepted_or_Rejected__Nothing,Baseline,-0.09733107780592426,0.5780538315363205,-
+I think the robot was a good student,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.4848389505329195,0.04855010466330084,*
+I think the robot was a good student,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.4525034784734742,0.05935781120397921,-
+I think the robot was a good student,Accepted_or_Rejected__Nothing,Delta_Social,0.4691819113232786,0.05743858343096613,-
+I think the robot was a good student,Accepted_or_Rejected__Nothing,Delta_Task,0.4610436806523351,0.054141687863357844,-
+I think the robot was a good student,Accepted_or_Rejected__Nothing,Social,0.35136053935487044,0.16668953057281546,-
+I think the robot was a good student,Accepted_or_Rejected__Nothing,Task,0.19149159975245542,0.4465431348834169,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,Baseline,-0.11551252420322583,0.5087532953468192,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.4613678908414021,0.06230251693817845,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.27318625211721104,0.2727046593063751,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,Delta_Social,0.4266785757405448,0.08763325569864447,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,Delta_Task,0.23424289174958693,0.349494854647428,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,Social,0.35070440332133024,0.16753778012469894,-
+I think the robot was a good student,Accepted_or_Rejected__Word_length,Task,0.09417718476029698,0.7101140436647984,-
+I think the robot was a good student,Answer_Time__Nothing,Baseline,-0.06931627101613876,0.6923528673557016,-
+I think the robot was a good student,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.3222957057501712,0.20707943259886036,-
+I think the robot was a good student,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.5141288867954938,0.029053484538817453,*
+I think the robot was a good student,Answer_Time__Nothing,Delta_Social,-0.30989971706747227,0.2260848351561327,-
+I think the robot was a good student,Answer_Time__Nothing,Delta_Task,-0.5337521267495204,0.022524137393656603,*
+I think the robot was a good student,Answer_Time__Nothing,Social,-0.4326695176085523,0.08280150610987665,-
+I think the robot was a good student,Answer_Time__Nothing,Task,-0.26600795837367097,0.28600423706509237,-
+I think the robot was a good student,Answer_Time__Word_length,Baseline,-0.14119981132917153,0.41847074738564416,-
+I think the robot was a good student,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.36774766425340044,0.14643535348406556,-
+I think the robot was a good student,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.5533753667035468,0.017204523379210652,*
+I think the robot was a good student,Answer_Time__Word_length,Delta_Social,-0.20522247930245943,0.42942962510672833,-
+I think the robot was a good student,Answer_Time__Word_length,Delta_Task,-0.6122450865656263,0.006918088084808634,**
+I think the robot was a good student,Answer_Time__Word_length,Social,-0.3016498749524414,0.2393312110840224,-
+I think the robot was a good student,Answer_Time__Word_length,Task,-0.3385555833846721,0.16936692864021177,-
+I think the robot was a good student,Attempt_Duration__Nothing,Baseline,0.03850903945341042,0.826159361072342,-
+I think the robot was a good student,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.006886660379277162,0.979072525392085,-
+I think the robot was a good student,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",-0.16091056762301717,0.5235695694382845,-
+I think the robot was a good student,Attempt_Duration__Nothing,Delta_Social,0.21899580006101374,0.39839692554119766,-
+I think the robot was a good student,Attempt_Duration__Nothing,Delta_Task,0.17268451159543305,0.49320695364348033,-
+I think the robot was a good student,Attempt_Duration__Nothing,Social,0.28336806434926315,0.2703967413507688,-
+I think the robot was a good student,Attempt_Duration__Nothing,Task,-0.1209127083516686,0.6327064044629844,-
+I think the robot was a good student,Attempt_Duration__Word_length,Baseline,0.00812968610683109,0.9630314072405036,-
+I think the robot was a good student,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",-0.15977052079923015,0.540187572024529,-
+I think the robot was a good student,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.47488240688744093,0.04643158753069023,*
+I think the robot was a good student,Attempt_Duration__Word_length,Delta_Social,0.3222957057501712,0.20707943259886036,-
+I think the robot was a good student,Attempt_Duration__Word_length,Delta_Task,-0.1216640877149642,0.6305781499321546,-
+I think the robot was a good student,Attempt_Duration__Word_length,Social,0.37477711736515446,0.1382879434023409,-
+I think the robot was a good student,Attempt_Duration__Word_length,Task,-0.14509525002200235,0.565665154519521,-
+I think the robot was a good student,Sent_Word_Duration__Nothing,Baseline,-0.09328398384109336,0.594035354486933,-
+I think the robot was a good student,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.5963847888454021,0.011507019943851567,*
+I think the robot was a good student,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.003924647990805296,0.9876688465932264,-
+I think the robot was a good student,Sent_Word_Duration__Nothing,Delta_Social,0.6060261133763902,0.00991904297951752,**
+I think the robot was a good student,Sent_Word_Duration__Nothing,Delta_Task,0.14128732766899066,0.5760147489910119,-
+I think the robot was a good student,Sent_Word_Duration__Nothing,Social,0.5713065813493209,0.016593150019529,*
+I think the robot was a good student,Sent_Word_Duration__Nothing,Task,-0.01280252206076491,0.9597887053708127,-
+I think the robot was a good student,Sent_Word_Duration__Word_length,Baseline,-0.10183501544346311,0.5604987452416326,-
+I think the robot was a good student,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.5647061511007273,0.018188120896955515,*
+I think the robot was a good student,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.25117747141153896,0.3147094044962322,-
+I think the robot was a good student,Sent_Word_Duration__Word_length,Delta_Social,0.6060261133763902,0.00991904297951752,**
+I think the robot was a good student,Sent_Word_Duration__Word_length,Delta_Task,-0.07456831182530065,0.7687093328042631,-
+I think the robot was a good student,Sent_Word_Duration__Word_length,Social,0.5713065813493209,0.016593150019529,*
+I think the robot was a good student,Sent_Word_Duration__Word_length,Task,-0.10953268874209979,0.6652677795561064,-
+I think the robot was a good student,Time_To_Start__Nothing,Baseline,0.10525804117265515,0.5473238167160444,-
+I think the robot was a good student,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.21210913968173659,0.41375902191730063,-
+I think the robot was a good student,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.015698591963221185,0.9507019657061381,-
+I think the robot was a good student,Time_To_Start__Nothing,Delta_Social,-0.11431856229600088,0.6621967679875684,-
+I think the robot was a good student,Time_To_Start__Nothing,Delta_Task,-0.02354788794483178,0.9261060556673635,-
+I think the robot was a good student,Time_To_Start__Nothing,Social,0.02132877903704131,0.9352423880824958,-
+I think the robot was a good student,Time_To_Start__Nothing,Task,-0.04836508334066744,0.8488585320206627,-
+I think the robot was a good student,Time_To_Start__Word_length,Baseline,0.09798411149812206,0.5754932667040632,-
+I think the robot was a good student,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.21348647175759203,0.4106617683516579,-
+I think the robot was a good student,Time_To_Start__Word_length,"Delta Logs, Delta_Task",-0.08241760780691124,0.745091144994704,-
+I think the robot was a good student,Time_To_Start__Word_length,Delta_Social,-0.16390251702679645,0.5296196592351883,-
+I think the robot was a good student,Time_To_Start__Word_length,Delta_Task,-0.1216640877149642,0.6305781499321546,-
+I think the robot was a good student,Time_To_Start__Word_length,Social,-0.016758326386246743,0.9490998331619525,-
+I think the robot was a good student,Time_To_Start__Word_length,Task,-0.02418254167033372,0.9241198538464604,-
+I think the robot was a good student,n_erased__Attempt_Duration,Baseline,0.09415958648213525,0.5905613976812044,-
+I think the robot was a good student,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.40631296237735254,0.10558018185781301,-
+I think the robot was a good student,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.13764707476457988,0.5859833070897746,-
+I think the robot was a good student,n_erased__Attempt_Duration,Delta_Social,-0.3360690265087255,0.18721678816439488,-
+I think the robot was a good student,n_erased__Attempt_Duration,Delta_Task,-0.05899160347053423,0.8161387950256478,-
+I think the robot was a good student,n_erased__Attempt_Duration,Social,-0.22395217988893376,0.38753423240722695,-
+I think the robot was a good student,n_erased__Attempt_Duration,Task,-0.014254475939994602,0.9552323830040426,-
+I think the robot was a good student,n_erased__Nothing,Baseline,0.051849569669503194,0.7673790187519383,-
+I think the robot was a good student,n_erased__Nothing,"Delta Logs, Delta_Social",-0.34295568688800265,0.17777528486545247,-
+I think the robot was a good student,n_erased__Nothing,"Delta Logs, Delta_Task",-0.12191598050577077,0.6298652905104638,-
+I think the robot was a good student,n_erased__Nothing,Delta_Social,-0.027597418779588354,0.9162654104056712,-
+I think the robot was a good student,n_erased__Nothing,Delta_Task,-0.18137808563949712,0.47134926802928523,-
+I think the robot was a good student,n_erased__Nothing,Social,0.07784091674277686,0.7665043412932566,-
+I think the robot was a good student,n_erased__Nothing,Task,-0.14577379737113252,0.5638294281097695,-
+I think the robot was a good student,n_erased__Word_length,Baseline,0.059072019221220774,0.736058590660186,-
+I think the robot was a good student,n_erased__Word_length,"Delta Logs, Delta_Social",-0.3691249963292559,0.14481368118142438,-
+I think the robot was a good student,n_erased__Word_length,"Delta Logs, Delta_Task",-0.1612437161527936,0.5226987297753023,-
+I think the robot was a good student,n_erased__Word_length,Delta_Social,-0.06197994341349446,0.8131913052466978,-
+I think the robot was a good student,n_erased__Word_length,Delta_Task,-0.2203495199523005,0.3796072605477814,-
+I think the robot was a good student,n_erased__Word_length,Social,0.05636891602646632,0.8298593986921227,-
+I think the robot was a good student,n_erased__Word_length,Task,-0.14547104772476577,0.5646481599060456,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,Baseline,,,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",-0.34102409632985164,0.16608078016968425,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,Delta_Social,,,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,Delta_Task,0.10289597533280527,0.6845284142003246,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,Social,,,-
+I think the robot was nice,Accepted_or_Rejected__Nothing,Task,0.10289597533280527,0.6845284142003246,-
+I think the robot was nice,Accepted_or_Rejected__Word_length,Baseline,,,-
+I think the robot was nice,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",-0.5450734182390665,0.01931814063499196,*
+I think the robot was nice,Accepted_or_Rejected__Word_length,Delta_Social,,,-
+I think the robot was nice,Accepted_or_Rejected__Word_length,Delta_Task,-0.03412011137808224,0.8930821588419604,-
+I think the robot was nice,Accepted_or_Rejected__Word_length,Social,,,-
+I think the robot was nice,Accepted_or_Rejected__Word_length,Task,-0.03412011137808224,0.8930821588419604,-
+I think the robot was nice,Answer_Time__Nothing,Baseline,,,-
+I think the robot was nice,Answer_Time__Nothing,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.14739535342309518,0.5594530368242503,-
+I think the robot was nice,Answer_Time__Nothing,Delta_Social,,,-
+I think the robot was nice,Answer_Time__Nothing,Delta_Task,-0.39872332784965503,0.10121385534571516,-
+I think the robot was nice,Answer_Time__Nothing,Social,,,-
+I think the robot was nice,Answer_Time__Nothing,Task,-0.39872332784965503,0.10121385534571516,-
+I think the robot was nice,Answer_Time__Word_length,Baseline,,,-
+I think the robot was nice,Answer_Time__Word_length,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.14739535342309518,0.5594530368242503,-
+I think the robot was nice,Answer_Time__Word_length,Delta_Social,,,-
+I think the robot was nice,Answer_Time__Word_length,Delta_Task,-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Answer_Time__Word_length,Social,,,-
+I think the robot was nice,Answer_Time__Word_length,Task,-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Attempt_Duration__Nothing,Baseline,,,-
+I think the robot was nice,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Attempt_Duration__Nothing,Delta_Social,,,-
+I think the robot was nice,Attempt_Duration__Nothing,Delta_Task,-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Attempt_Duration__Nothing,Social,,,-
+I think the robot was nice,Attempt_Duration__Nothing,Task,-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Attempt_Duration__Word_length,Baseline,,,-
+I think the robot was nice,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Attempt_Duration__Word_length,Delta_Social,,,-
+I think the robot was nice,Attempt_Duration__Word_length,Delta_Task,-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Attempt_Duration__Word_length,Social,,,-
+I think the robot was nice,Attempt_Duration__Word_length,Task,-0.5064353168896091,0.031980602629759276,*
+I think the robot was nice,Sent_Word_Duration__Nothing,Baseline,,,-
+I think the robot was nice,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",-0.478090056615937,0.0447700252795048,*
+I think the robot was nice,Sent_Word_Duration__Nothing,Delta_Social,,,-
+I think the robot was nice,Sent_Word_Duration__Nothing,Delta_Task,-0.478090056615937,0.0447700252795048,*
+I think the robot was nice,Sent_Word_Duration__Nothing,Social,,,-
+I think the robot was nice,Sent_Word_Duration__Nothing,Task,-0.478090056615937,0.0447700252795048,*
+I think the robot was nice,Sent_Word_Duration__Word_length,Baseline,,,-
+I think the robot was nice,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.478090056615937,0.0447700252795048,*
+I think the robot was nice,Sent_Word_Duration__Word_length,Delta_Social,,,-
+I think the robot was nice,Sent_Word_Duration__Word_length,Delta_Task,-0.478090056615937,0.0447700252795048,*
+I think the robot was nice,Sent_Word_Duration__Word_length,Social,,,-
+I think the robot was nice,Sent_Word_Duration__Word_length,Task,-0.478090056615937,0.0447700252795048,*
+I think the robot was nice,Time_To_Start__Nothing,Baseline,,,-
+I think the robot was nice,Time_To_Start__Nothing,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Time_To_Start__Nothing,"Delta Logs, Delta_Task",-0.29101133880970076,0.24136049153652991,-
+I think the robot was nice,Time_To_Start__Nothing,Delta_Social,,,-
+I think the robot was nice,Time_To_Start__Nothing,Delta_Task,-0.11149135707644381,0.6596207235840856,-
+I think the robot was nice,Time_To_Start__Nothing,Social,,,-
+I think the robot was nice,Time_To_Start__Nothing,Task,-0.11149135707644381,0.6596207235840856,-
+I think the robot was nice,Time_To_Start__Word_length,Baseline,,,-
+I think the robot was nice,Time_To_Start__Word_length,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,Time_To_Start__Word_length,"Delta Logs, Delta_Task",-0.29101133880970076,0.24136049153652991,-
+I think the robot was nice,Time_To_Start__Word_length,Delta_Social,,,-
+I think the robot was nice,Time_To_Start__Word_length,Delta_Task,-0.18329934976974657,0.4665848207946163,-
+I think the robot was nice,Time_To_Start__Word_length,Social,,,-
+I think the robot was nice,Time_To_Start__Word_length,Task,-0.18329934976974657,0.4665848207946163,-
+I think the robot was nice,n_erased__Attempt_Duration,Baseline,,,-
+I think the robot was nice,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.1533813093480932,0.5434279659319738,-
+I think the robot was nice,n_erased__Attempt_Duration,Delta_Social,,,-
+I think the robot was nice,n_erased__Attempt_Duration,Delta_Task,-0.2783586725206136,0.26336243845663765,-
+I think the robot was nice,n_erased__Attempt_Duration,Social,,,-
+I think the robot was nice,n_erased__Attempt_Duration,Task,-0.2783586725206136,0.26336243845663765,-
+I think the robot was nice,n_erased__Nothing,Baseline,,,-
+I think the robot was nice,n_erased__Nothing,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,n_erased__Nothing,"Delta Logs, Delta_Task",-0.5074838383369009,0.031568802947530186,*
+I think the robot was nice,n_erased__Nothing,Delta_Social,,,-
+I think the robot was nice,n_erased__Nothing,Delta_Task,-0.5268396463590972,0.02467748008548848,*
+I think the robot was nice,n_erased__Nothing,Social,,,-
+I think the robot was nice,n_erased__Nothing,Task,-0.5268396463590972,0.02467748008548848,*
+I think the robot was nice,n_erased__Word_length,Baseline,,,-
+I think the robot was nice,n_erased__Word_length,"Delta Logs, Delta_Social",,,-
+I think the robot was nice,n_erased__Word_length,"Delta Logs, Delta_Task",-0.5074838383369009,0.031568802947530186,*
+I think the robot was nice,n_erased__Word_length,Delta_Social,,,-
+I think the robot was nice,n_erased__Word_length,Delta_Task,-0.543743975814819,0.019674800596177083,*
+I think the robot was nice,n_erased__Word_length,Social,,,-
+I think the robot was nice,n_erased__Word_length,Task,-0.543743975814819,0.019674800596177083,*
+I think the robot was serious,Accepted_or_Rejected__Nothing,Baseline,0.09257749506431351,0.5968448308519294,-
+I think the robot was serious,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.70082022140353,0.0017254305890959769,**
+I think the robot was serious,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.31287141819039804,0.20618171511171215,-
+I think the robot was serious,Accepted_or_Rejected__Nothing,Delta_Social,0.5315008629575572,0.028114503660851276,*
+I think the robot was serious,Accepted_or_Rejected__Nothing,Delta_Task,0.4319756210317107,0.07342516354599037,-
+I think the robot was serious,Accepted_or_Rejected__Nothing,Social,0.23629357544829047,0.3612008341632751,-
+I think the robot was serious,Accepted_or_Rejected__Nothing,Task,0.5046237080778269,0.03270186628961715,*
+I think the robot was serious,Accepted_or_Rejected__Word_length,Baseline,-0.020640166631551635,0.9063160002939422,-
+I think the robot was serious,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.755177158470119,0.0004568359367853651,***
+I think the robot was serious,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.2256259098471461,0.3680060695716735,-
+I think the robot was serious,Accepted_or_Rejected__Word_length,Delta_Social,0.5652957616187072,0.01804094475437867,*
+I think the robot was serious,Accepted_or_Rejected__Word_length,Delta_Task,0.2889542974703723,0.24485536315611747,-
+I think the robot was serious,Accepted_or_Rejected__Word_length,Social,0.30544808295609543,0.2331730856768443,-
+I think the robot was serious,Accepted_or_Rejected__Word_length,Task,0.343301044204908,0.16308825031156668,-
+I think the robot was serious,Answer_Time__Nothing,Baseline,0.07565467583615203,0.6657819614294912,-
+I think the robot was serious,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.253225090533872,0.3267629007434051,-
+I think the robot was serious,Answer_Time__Nothing,"Delta Logs, Delta_Task",0.09478841923359681,0.708310337176731,-
+I think the robot was serious,Answer_Time__Nothing,Delta_Social,-0.2762455533096785,0.28313888049173364,-
+I think the robot was serious,Answer_Time__Nothing,Delta_Task,-0.14402915649780296,0.5685545602736533,-
+I think the robot was serious,Answer_Time__Nothing,Social,-0.006140634384863434,0.9813391877917489,-
+I think the robot was serious,Answer_Time__Nothing,Task,-0.23569120364587234,0.34643691359343287,-
+I think the robot was serious,Answer_Time__Word_length,Baseline,0.05832020642126671,0.7393003815602528,-
+I think the robot was serious,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.3337967102491949,0.19040343559629896,-
+I think the robot was serious,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.02831342392691853,0.9112028457163986,-
+I think the robot was serious,Answer_Time__Word_length,Delta_Social,-0.36832740441290474,0.1457512580813795,-
+I think the robot was serious,Answer_Time__Word_length,Delta_Task,-0.2215833176889276,0.3768765120708556,-
+I think the robot was serious,Answer_Time__Word_length,Social,-0.033773489116748885,0.8976103427590629,-
+I think the robot was serious,Answer_Time__Word_length,Task,-0.3357792490297359,0.17311509619753718,-
+I think the robot was serious,Attempt_Duration__Nothing,Baseline,-0.20390036904966796,0.24004503289363782,-
+I think the robot was serious,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",-0.05467359909254054,0.8349093552785636,-
+I think the robot was serious,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",0.15510832238224936,0.5388432558830172,-
+I think the robot was serious,Attempt_Duration__Nothing,Delta_Social,0.26185776407479944,0.3099687354670725,-
+I think the robot was serious,Attempt_Duration__Nothing,Delta_Task,-0.016003239610866995,0.9497464177487083,-
+I think the robot was serious,Attempt_Duration__Nothing,Social,-0.13816427365942727,0.5969287342959213,-
+I think the robot was serious,Attempt_Duration__Nothing,Task,-0.3906662416595966,0.1089512618137436,-
+I think the robot was serious,Attempt_Duration__Word_length,Baseline,-0.2138897243057036,0.21728799810801366,-
+I think the robot was serious,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",-0.06042871478649218,0.8177921082939577,-
+I think the robot was serious,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.008617129021236075,0.9729288969847253,-
+I think the robot was serious,Attempt_Duration__Word_length,Delta_Social,0.2906333425445576,0.25776840566714854,-
+I think the robot was serious,Attempt_Duration__Word_length,Delta_Task,-0.33606803182820694,0.17272264331899398,-
+I think the robot was serious,Attempt_Duration__Word_length,Social,-0.05526570946377091,0.8331448922489799,-
+I think the robot was serious,Attempt_Duration__Word_length,Task,-0.6102142121790394,0.007159559652070068,**
+I think the robot was serious,Sent_Word_Duration__Nothing,Baseline,0.07918587605598987,0.6511482584651835,-
+I think the robot was serious,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.4086132142705661,0.10343224896265091,-
+I think the robot was serious,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.29175136829042136,0.24011098869302916,-
+I think the robot was serious,Sent_Word_Duration__Nothing,Delta_Social,0.584144242936091,0.013806563791312345,*
+I think the robot was serious,Sent_Word_Duration__Nothing,Delta_Task,-0.02954444235852368,0.9073574810387084,-
+I think the robot was serious,Sent_Word_Duration__Nothing,Social,0.34234036695613645,0.17860569909100776,-
+I think the robot was serious,Sent_Word_Duration__Nothing,Task,-0.3906662416595966,0.1089512618137436,-
+I think the robot was serious,Sent_Word_Duration__Word_length,Baseline,0.03613796166154058,0.8367145569253064,-
+I think the robot was serious,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.36257228871895303,0.15263990916594974,-
+I think the robot was serious,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",0.18465276474077302,0.46324310087690934,-
+I think the robot was serious,Sent_Word_Duration__Word_length,Delta_Social,0.584144242936091,0.013806563791312345,*
+I think the robot was serious,Sent_Word_Duration__Word_length,Delta_Task,-0.10340554825483289,0.683042803315067,-
+I think the robot was serious,Sent_Word_Duration__Word_length,Social,0.36997322168802194,0.14382113242001796,-
+I think the robot was serious,Sent_Word_Duration__Word_length,Task,-0.35192248215616556,0.15209037944057713,-
+I think the robot was serious,Time_To_Start__Nothing,Baseline,-0.39516714174611445,0.0188003438943612,*
+I think the robot was serious,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.10934719818508108,0.6761185753172825,-
+I think the robot was serious,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.30775460790128834,0.21409596139245504,-
+I think the robot was serious,Time_To_Start__Nothing,Delta_Social,-0.11222475603205691,0.668047830103299,-
+I think the robot was serious,Time_To_Start__Nothing,Delta_Task,0.07878517962272982,0.7559954523929259,-
+I think the robot was serious,Time_To_Start__Nothing,Social,-0.36843806309180605,0.1456209298410099,-
+I think the robot was serious,Time_To_Start__Nothing,Task,-0.041972406128716985,0.8686593229977999,-
+I think the robot was serious,Time_To_Start__Word_length,Baseline,-0.41999362760302655,0.012010034596492641,*
+I think the robot was serious,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.16689835512459744,0.5220169870201925,-
+I think the robot was serious,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.3065235894696832,0.21602907900958176,-
+I think the robot was serious,Time_To_Start__Word_length,Delta_Social,-0.13236766096088762,0.6125527178707106,-
+I think the robot was serious,Time_To_Start__Word_length,Delta_Task,0.0,1.0,-
+I think the robot was serious,Time_To_Start__Word_length,Social,-0.40374671080477076,0.1080136682967767,-
+I think the robot was serious,Time_To_Start__Word_length,Task,-0.1452890981378665,0.5651404579758572,-
+I think the robot was serious,n_erased__Attempt_Duration,Baseline,-0.2850702921726605,0.09693578255632439,-
+I think the robot was serious,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.569756453701212,0.01695746795879705,*
+I think the robot was serious,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.1443273538284133,0.5677457225831661,-
+I think the robot was serious,n_erased__Attempt_Duration,Delta_Social,-0.4891848339858891,0.04627717363185125,*
+I think the robot was serious,n_erased__Attempt_Duration,Delta_Task,-0.09251753450539316,0.7150189213783404,-
+I think the robot was serious,n_erased__Attempt_Duration,Social,-0.1918948245269823,0.46061380966748033,-
+I think the robot was serious,n_erased__Attempt_Duration,Task,-0.20382586566453098,0.4172236135816725,-
+I think the robot was serious,n_erased__Nothing,Baseline,-0.3893498874218699,0.020786540379038158,*
+I think the robot was serious,n_erased__Nothing,"Delta Logs, Delta_Social",-0.4546541398221793,0.066719512882793,-
+I think the robot was serious,n_erased__Nothing,"Delta Logs, Delta_Task",-0.08881683312517742,0.7259939399564592,-
+I think the robot was serious,n_erased__Nothing,Delta_Social,-0.12396307053964808,0.6354877984485414,-
+I think the robot was serious,n_erased__Nothing,Delta_Task,-0.10141558027090217,0.6888506012126878,-
+I think the robot was serious,n_erased__Nothing,Social,-0.13534297779624493,0.6045128880460571,-
+I think the robot was serious,n_erased__Nothing,Task,-0.3308620512686473,0.17988996639965263,-
+I think the robot was serious,n_erased__Word_length,Baseline,-0.4034163055950291,0.016257112699348673,*
+I think the robot was serious,n_erased__Word_length,"Delta Logs, Delta_Social",-0.4546541398221793,0.066719512882793,-
+I think the robot was serious,n_erased__Word_length,"Delta Logs, Delta_Task",-0.1282909811808118,0.6119289240298376,-
+I think the robot was serious,n_erased__Word_length,Delta_Social,-0.15251056588971837,0.5589808433891279,-
+I think the robot was serious,n_erased__Word_length,Delta_Task,-0.1357627455658532,0.591171590805898,-
+I think the robot was serious,n_erased__Word_length,Social,-0.12127752910105283,0.6428841285013978,-
+I think the robot was serious,n_erased__Word_length,Task,-0.33988592845338367,0.16759051893268043,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,Baseline,0.3696752880927112,0.02883856630931374,*
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.45907953265781215,0.06378297338889345,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",0.5104858673915663,0.03041241986893691,*
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,Delta_Social,0.43633622864161414,0.07994133237448471,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,Delta_Task,0.3587238816008328,0.1437819073068173,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,Social,0.6633898485743291,0.0036938497109944516,**
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Nothing,Task,0.24342241556154903,0.33037510952997207,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,Baseline,0.38515632374879016,0.02232401945605898,*
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.4524020824264332,0.06825158149490297,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.3457242184802768,0.15994406028657776,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,Delta_Social,0.4274186838446749,0.08702558870005271,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,Delta_Task,0.19404071532883932,0.4403985875664501,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,Social,0.6621510242466639,0.0037814880198884697,**
+I was concentrated when doing the activity with Blueberry and a group of friends,Accepted_or_Rejected__Word_length,Task,0.15649488419215785,0.5351750627618443,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,Baseline,-0.12803226283317695,0.46357958099507746,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.13941068868078973,0.5935905540304489,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.3312921442448836,0.1792904019008575,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,Delta_Social,-0.23056383127976765,0.3732989559586961,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,Delta_Task,-0.3112812093576088,0.20862047183465873,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,Social,-0.4642064227162155,0.06050165552338121,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Nothing,Task,-0.045981784967726556,0.8562311702646657,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,Baseline,-0.1608365490814785,0.3560104424845649,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.17694433563331005,0.4968961444943464,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.3913249489067082,0.10830332223185714,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,Delta_Social,-0.3176955117052612,0.21400695074332954,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,Delta_Task,-0.44913431635883555,0.06151580138853691,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,Social,-0.5871271265507274,0.013215394826191827,*
+I was concentrated when doing the activity with Blueberry and a group of friends,Answer_Time__Word_length,Task,-0.20582322795077598,0.41257436947439774,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,Baseline,0.396836317139648,0.01826058085931567,*
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.0026809747823228797,0.9918522302299768,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",-0.3613085465757959,0.140708530655302,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,Delta_Social,0.189008722153763,0.4675125179700589,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,Delta_Task,0.17453982096123064,0.48850158129108356,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,Social,0.18076574093310574,0.4874946875150137,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Nothing,Task,-0.47952432894914837,0.04404187380702302,*
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,Baseline,0.30431549039079747,0.07550306258578326,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",0.04959803347297327,0.8500640713133547,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.6247858559249148,0.005568770066957436,**
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,Delta_Social,0.2386067556267363,0.35637985273921524,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,Delta_Task,-0.005558593024243014,0.9825356604293405,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,Social,0.20968825948240266,0.41923282405132944,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Attempt_Duration__Word_length,Task,-0.3853711502057083,0.11426054367305044,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,Baseline,0.1485851582528433,0.394291619036896,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.2292233438886062,0.37616138113705466,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",-0.15119373025941,0.549260368876801,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,Delta_Social,0.46783009951534243,0.058259127192414,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,Delta_Task,0.27681793260730214,0.26612414677361684,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,Social,0.7736773711936925,0.0002687048434306028,***
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Nothing,Task,-0.3777075193777538,0.1222662328841235,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,Baseline,0.08599181832079049,0.6233061591674163,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.21983993215047612,0.39653537145492557,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.44468744193944115,0.0644530738855199,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,Delta_Social,0.46783009951534243,0.058259127192414,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,Delta_Task,0.055585930242430144,0.826596222079141,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,Social,0.7736773711936925,0.0002687048434306028,***
+I was concentrated when doing the activity with Blueberry and a group of friends,Sent_Word_Duration__Word_length,Task,-0.41164645590155197,0.08964039665323874,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,Baseline,0.5325122971568952,0.0009912679277417323,***
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.2024135960653774,0.43590867211247786,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.24791324888123842,0.3212487319545392,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,Delta_Social,-0.04423608390832751,0.8661278686730053,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,Delta_Task,0.2745944953976049,0.27014114335912476,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,Social,-0.026030266694367223,0.9210060069925301,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Nothing,Task,-0.24523618649454162,0.32667106498885956,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,Baseline,0.47725459168038725,0.0037435042239872406,**
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.18766823476260158,0.470734057912194,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.19232731863880828,0.4445238307086823,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,Delta_Social,-0.10321752911943086,0.6934212425964983,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,Delta_Task,0.17453982096123064,0.48850158129108356,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,Social,-0.14461259274648458,0.5797422172249305,-
+I was concentrated when doing the activity with Blueberry and a group of friends,Time_To_Start__Word_length,Task,-0.24195177328256118,0.33339635159446723,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,Baseline,-0.07629930308067093,0.6631012792743913,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.356569646048943,0.1600577113602615,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",-0.10583192870393486,0.675984195682108,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,Delta_Social,-0.3793579316986875,0.13315016263742155,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,Delta_Task,-0.2495405476808569,0.3179787684933344,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,Social,-0.6854636896183369,0.002388600730869664,**
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Attempt_Duration,Task,-0.2007640080434584,0.4244044651510718,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,Baseline,0.08436428962333563,0.6299194457073818,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,"Delta Logs, Delta_Social",-0.2868643017085481,0.26427310082018335,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,"Delta Logs, Delta_Task",-0.3119256846010712,0.207629837156652,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,Delta_Social,-0.031559520937320146,0.9042923828250493,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,Delta_Task,-0.196019043893348,0.43566024834274986,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,Social,-0.30062425692519823,0.2410115091215987,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Nothing,Task,-0.3068788874587893,0.2154699803552713,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,Baseline,0.07471688690072205,0.6696890322257792,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,"Delta Logs, Delta_Social",-0.2546926043206736,0.323871326906371,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,"Delta Logs, Delta_Task",-0.3531444357804985,0.1505739190830931,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,Delta_Social,-0.05764095781994191,0.8260744009770901,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,Delta_Task,-0.22069039681993477,0.3788517068873605,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,Social,-0.3326089633169146,0.19208325139672347,-
+I was concentrated when doing the activity with Blueberry and a group of friends,n_erased__Word_length,Task,-0.28099582847604127,0.25867702942609844,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,Baseline,-0.11628259133127027,0.5059127415113225,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",-0.4100107026249392,0.10214258607389724,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",-0.11272740962014541,0.6560660150283428,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,Delta_Social,-0.18027323553619,0.4887015016284524,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,Delta_Task,-0.11337612096855396,0.6542032183351405,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,Social,,,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Nothing,Task,0.23569498597116972,0.3464289478502999,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,Baseline,-0.07338981863424565,0.6752325193497588,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",-0.4112836355311519,0.10097787446923326,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",-0.12869789041755736,0.6107910263355334,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,Delta_Social,-0.17993659054487895,0.4895272311063714,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,Delta_Task,-0.16112274817427727,0.5230148585545116,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,Social,,,-
+I would like to redo this activity with Blueberry,Accepted_or_Rejected__Word_length,Task,0.16412762703128408,0.5151884713600483,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,Baseline,-0.14625448482542616,0.4018335095688055,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,"Delta Logs, Delta_Social",0.3061862178478973,0.2319881244232145,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.09637388493048533,0.7036386476374066,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,Delta_Social,0.3572172541558802,0.1592459066983779,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,Delta_Task,0.032124628310161774,0.8993041385932469,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,Social,,,-
+I would like to redo this activity with Blueberry,Answer_Time__Nothing,Task,-0.07012230125638468,0.7821751087521553,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,Baseline,-0.08531511614816525,0.6260523866332041,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,"Delta Logs, Delta_Social",0.3572172541558802,0.1592459066983779,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.06424925662032355,0.8000531491539615,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,Delta_Social,0.3572172541558802,0.1592459066983779,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,Delta_Task,-0.09637388493048533,0.7036386476374066,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,Social,,,-
+I would like to redo this activity with Blueberry,Answer_Time__Word_length,Task,-0.21036690376915404,0.4021020578778828,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,Baseline,0.2803210959154001,0.1028768992891803,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",0.06424925662032355,0.8000531491539615,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,Delta_Social,-0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,Delta_Task,0.16062314155080887,0.5243214314267926,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,Social,,,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Nothing,Task,0.3506115062819234,0.15372894485002397,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,Baseline,0.2925089696508523,0.08816071657944205,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",0.2041241452319315,0.431957080956069,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",0.032124628310161774,0.8993041385932469,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,Delta_Social,-0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,Delta_Task,0.22487239817113244,0.3696504936380537,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,Social,,,-
+I would like to redo this activity with Blueberry,Attempt_Duration__Word_length,Task,0.3506115062819234,0.15372894485002397,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,Baseline,0.31690691025951695,0.06361177321042981,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",-0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.06424925662032355,0.8000531491539615,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,Delta_Social,-0.3572172541558802,0.1592459066983779,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,Delta_Task,-0.16062314155080887,0.5243214314267926,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,Social,,,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Nothing,Task,0.11687050209397445,0.6442026246677142,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,Baseline,0.3778240857990175,0.02523839867823676,*
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",-0.05103103630798288,0.8457801257277214,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",0.1284985132406471,0.611348467034341,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,Delta_Social,-0.3572172541558802,0.1592459066983779,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,Delta_Task,-0.2569970264812942,0.3032485423360842,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,Social,,,-
+I would like to redo this activity with Blueberry,Sent_Word_Duration__Word_length,Task,-0.023374100418794893,0.9266500112348955,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,Baseline,-0.024375747470904357,0.8894564216066149,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,"Delta Logs, Delta_Social",0.05103103630798288,0.8457801257277214,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,"Delta Logs, Delta_Task",-0.28912165479145596,0.2445698355364675,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,Delta_Social,0.0,1.0,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,Delta_Task,-0.35337091141177956,0.150294006405313,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,Social,,,-
+I would like to redo this activity with Blueberry,Time_To_Start__Nothing,Task,-0.2571151046067438,0.3030186296827211,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,Baseline,-0.024375747470904357,0.8894564216066149,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,"Delta Logs, Delta_Social",0.05103103630798288,0.8457801257277214,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,"Delta Logs, Delta_Task",-0.28912165479145596,0.2445698355364675,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,Delta_Social,0.0,1.0,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,Delta_Task,-0.38549553972194134,0.1141337537363698,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,Social,,,-
+I would like to redo this activity with Blueberry,Time_To_Start__Word_length,Task,-0.2571151046067438,0.3030186296827211,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,Baseline,-0.13410418054877224,0.4424652472200259,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",0.2041241452319315,0.431957080956069,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",-0.2575291119918602,0.3022133328036023,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,Delta_Social,0.2041241452319315,0.431957080956069,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,Delta_Task,0.35410252898880773,0.149392209649768,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,Social,,,-
+I would like to redo this activity with Blueberry,n_erased__Attempt_Duration,Task,0.35133741079873654,0.15282016081774077,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,Baseline,-0.02441167342624472,0.8892944984658686,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,"Delta Logs, Delta_Social",0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,"Delta Logs, Delta_Task",-0.09657341699694756,0.703051422763104,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,Delta_Social,-0.10225020562837762,0.6961651676593756,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,Delta_Task,0.3227486121839514,0.19145286793983796,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,Social,,,-
+I would like to redo this activity with Blueberry,n_erased__Nothing,Task,0.35225116373539667,0.15168145437133715,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,Baseline,-0.006096498960278945,0.9722728944149521,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,"Delta Logs, Delta_Social",0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,"Delta Logs, Delta_Task",-0.06438227799796505,0.7996471373249776,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,Delta_Social,-0.05103103630798288,0.8457801257277214,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,Delta_Task,0.3220783132004154,0.19242968092180415,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,Social,,,-
+I would like to redo this activity with Blueberry,n_erased__Word_length,Task,0.35151959251219767,0.15259266159214244,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,Baseline,0.12336137746254001,0.48017904997252014,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.05273719154509725,0.8406849257011577,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",-0.018945783129436202,0.9405204728430957,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,Delta_Social,-0.1766663133343933,0.49758349626266474,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,Delta_Task,-0.22961046347413025,0.3593789804354949,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,Social,0.10301327744925143,0.6940003274873203,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Nothing,Task,0.22961046347413025,0.3593789804354949,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,Baseline,0.06806168286185789,0.6976564821873665,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.05290092118939486,0.8401962805716311,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",0.09557710979539187,0.7059851530096879,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,Delta_Social,-0.17633640396464953,0.498399715819383,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,Delta_Task,-0.1099425811071539,0.6640845835510871,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,Social,0.10282090888278797,0.694545868371871,-
+I would like to redo this activity with a group of friends,Accepted_or_Rejected__Word_length,Task,0.1099425811071539,0.6640845835510871,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,Baseline,-0.03828240612953818,0.8271669884491272,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.2450490147049017,0.3431462655913279,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,"Delta Logs, Delta_Task",0.39872332784965503,0.10121385534571516,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,Delta_Social,-0.03500700210070025,0.8938902347498958,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,Delta_Task,0.3269153351563521,0.18545462644031038,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,Social,-0.10206207261596575,0.696699244080777,-
+I would like to redo this activity with a group of friends,Answer_Time__Nothing,Task,-0.3269153351563521,0.18545462644031038,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,Baseline,-0.11586132186224467,0.5074656952827501,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.21004201260420144,0.41843058967932145,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,"Delta Logs, Delta_Task",0.39872332784965503,0.10121385534571516,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,Delta_Social,0.10502100630210072,0.6883150997810407,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,Delta_Task,0.43462732419630634,0.07148170709184426,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,Social,-0.05103103630798288,0.8457801257277214,-
+I would like to redo this activity with a group of friends,Answer_Time__Word_length,Task,-0.43462732419630634,0.07148170709184426,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,Baseline,0.19952485843673207,0.25049986315359374,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",-0.03500700210070025,0.8938902347498958,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",0.2551073424630494,0.3069422177469875,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,Delta_Social,0.280056016805602,0.27627742787303555,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,Delta_Task,0.0037793680364896208,0.9881252818457544,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,Social,0.3572172541558802,0.1592459066983779,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Nothing,Task,-0.0037793680364896208,0.9881252818457544,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,Baseline,0.15465077972859792,0.3750507635531223,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",0.3269153351563521,0.18545462644031038,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,Delta_Social,0.3150630189063022,0.21803779545951305,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,Delta_Task,0.0037793680364896208,0.9881252818457544,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,Social,0.408248290463863,0.10377091535383602,-
+I would like to redo this activity with a group of friends,Attempt_Duration__Word_length,Task,-0.0037793680364896208,0.9881252818457544,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,Baseline,0.06313236242206885,0.7186291794482091,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.4200840252084029,0.09318360508371684,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",0.15495408949607445,0.5392519856769312,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,Delta_Social,0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,Delta_Task,0.11905009314942307,0.6379940171740142,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,Social,0.2041241452319315,0.431957080956069,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Nothing,Task,-0.11905009314942307,0.6379940171740142,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,Baseline,0.029409000735274356,0.8668166386790532,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.4200840252084029,0.09318360508371684,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",0.19085808584272584,0.44807699530326783,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,Delta_Social,0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,Delta_Task,0.2267620821893772,0.3655343360178377,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,Social,0.2041241452319315,0.431957080956069,-
+I would like to redo this activity with a group of friends,Sent_Word_Duration__Word_length,Task,-0.2267620821893772,0.3655343360178377,-
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,Baseline,0.18228509938501952,0.29461049209801016,-
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,"Delta Logs, Delta_Social",0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,"Delta Logs, Delta_Task",0.43462732419630634,0.07148170709184426,-
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,Delta_Social,0.3850770231077027,0.12692335064375423,-
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,Delta_Task,0.47053132054295776,0.048759734831097745,*
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,Social,0.15309310892394865,0.5574624351198403,-
+I would like to redo this activity with a group of friends,Time_To_Start__Nothing,Task,-0.47053132054295776,0.048759734831097745,*
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,Baseline,0.1465379519395567,0.4009118474117772,-
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,"Delta Logs, Delta_Social",0.10502100630210072,0.6883150997810407,-
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,"Delta Logs, Delta_Task",0.47053132054295776,0.048759734831097745,*
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,Delta_Social,0.3850770231077027,0.12692335064375423,-
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,Delta_Task,0.47053132054295776,0.048759734831097745,*
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,Social,0.15309310892394865,0.5574624351198403,-
+I would like to redo this activity with a group of friends,Time_To_Start__Word_length,Task,-0.47053132054295776,0.048759734831097745,*
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,Baseline,0.19603041445196356,0.25906406213993316,-
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",0.03500700210070025,0.8938902347498958,-
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",0.0984670134086524,0.6974865494000001,-
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,Delta_Social,0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,Delta_Task,-0.1893596411704854,0.45171574629051425,-
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,Social,-0.05103103630798288,0.8457801257277214,-
+I would like to redo this activity with a group of friends,n_erased__Attempt_Duration,Task,0.1893596411704854,0.45171574629051425,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,Baseline,0.22025783794772583,0.20357875049678642,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,"Delta Logs, Delta_Social",0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,"Delta Logs, Delta_Task",0.21965718375776308,0.38114439518101584,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,Delta_Social,0.15782189036217623,0.5452038948498541,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,Delta_Task,0.0037970424962817818,0.9880697526835764,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,Social,0.15337530844256644,0.5567275247519647,-
+I would like to redo this activity with a group of friends,n_erased__Nothing,Task,-0.0037970424962817818,0.9880697526835764,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,Baseline,0.21165628709003523,0.22224266561163514,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,"Delta Logs, Delta_Social",0.0700140042014005,0.7894583927180476,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,"Delta Logs, Delta_Task",0.21965718375776308,0.38114439518101584,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,Delta_Social,0.17503501050350123,0.5016256654535166,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,Delta_Task,0.0037891566258872406,0.9880945283014753,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,Social,0.15309310892394865,0.5574624351198403,-
+I would like to redo this activity with a group of friends,n_erased__Word_length,Task,-0.0037891566258872406,0.9880945283014753,-
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,Baseline,0.38018628581795927,0.024267054262798276,*
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Social",0.47692415680733385,0.05290372688604008,-
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,"Delta Logs, Delta_Task",-0.3601358414765457,0.14209727211031306,-
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,Delta_Social,0.3263178658031978,0.20114319289622165,-
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,Delta_Task,-0.0971376836101859,0.7013916468306988,-
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,Social,0.46481118641112984,0.06012301524817768,-
+I wrote well on the tablet,Accepted_or_Rejected__Nothing,Task,0.18943778309017348,0.45152561834843263,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,Baseline,0.322036408281746,0.05921294081450852,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Social",0.3958308468483429,0.11576994495083978,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,"Delta Logs, Delta_Task",-0.30579841134787233,0.21717314549804967,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,Delta_Social,0.31718895674602315,0.21477881482434874,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,Delta_Task,0.04203765759401384,0.8684568159345588,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,Social,0.4639431909078304,0.0606670151781974,-
+I wrote well on the tablet,Accepted_or_Rejected__Word_length,Task,0.2777181987808641,0.26450828345452143,-
+I wrote well on the tablet,Answer_Time__Nothing,Baseline,-0.3828639351611944,0.023203565456898455,*
+I wrote well on the tablet,Answer_Time__Nothing,"Delta Logs, Delta_Social",-0.23028142269114782,0.3739009934961255,-
+I wrote well on the tablet,Answer_Time__Nothing,"Delta Logs, Delta_Task",-0.26668286880029457,0.28473725211347933,-
+I wrote well on the tablet,Answer_Time__Nothing,Delta_Social,0.1873475981216118,0.47150625410143965,-
+I wrote well on the tablet,Answer_Time__Nothing,Delta_Task,-0.005442507526536623,0.9829003342453428,-
+I wrote well on the tablet,Answer_Time__Nothing,Social,-0.1311739248040948,0.6157902533319072,-
+I wrote well on the tablet,Answer_Time__Nothing,Task,-0.01977550392900472,0.9379202494036202,-
+I wrote well on the tablet,Answer_Time__Word_length,Baseline,-0.4049836429312672,0.015808073246899392,*
+I wrote well on the tablet,Answer_Time__Word_length,"Delta Logs, Delta_Social",-0.21336809786072455,0.41092747403539487,-
+I wrote well on the tablet,Answer_Time__Word_length,"Delta Logs, Delta_Task",-0.12191216859442036,0.6298760759457598,-
+I wrote well on the tablet,Answer_Time__Word_length,Delta_Social,0.1457147985390314,0.576825504265885,-
+I wrote well on the tablet,Answer_Time__Word_length,Delta_Task,0.15674421676425473,0.5345166533760514,-
+I wrote well on the tablet,Answer_Time__Word_length,Social,-0.3342819374039835,0.1897199807682352,-
+I wrote well on the tablet,Answer_Time__Word_length,Task,-0.029663255893507077,0.9069864424566217,-
+I wrote well on the tablet,Attempt_Duration__Nothing,Baseline,0.02880015642546402,0.8695500746592875,-
+I wrote well on the tablet,Attempt_Duration__Nothing,"Delta Logs, Delta_Social",0.32005214679108684,0.21043960013298818,-
+I wrote well on the tablet,Attempt_Duration__Nothing,"Delta Logs, Delta_Task",-0.47785216082991555,0.04489167994898523,*
+I wrote well on the tablet,Attempt_Duration__Nothing,Delta_Social,0.3434705965562883,0.17708236202768024,-
+I wrote well on the tablet,Attempt_Duration__Nothing,Delta_Task,-0.4245155870698566,0.07910159665212335,-
+I wrote well on the tablet,Attempt_Duration__Nothing,Social,0.1890032895026742,0.4675255519052678,-
+I wrote well on the tablet,Attempt_Duration__Nothing,Task,-0.34607131875758257,0.15949709117887856,-
+I wrote well on the tablet,Attempt_Duration__Word_length,Baseline,-0.03741051247019038,0.8310460050323656,-
+I wrote well on the tablet,Attempt_Duration__Word_length,"Delta Logs, Delta_Social",0.17954144819987797,0.49049730163395056,-
+I wrote well on the tablet,Attempt_Duration__Word_length,"Delta Logs, Delta_Task",-0.26232886277906525,0.2929711893835306,-
+I wrote well on the tablet,Attempt_Duration__Word_length,Delta_Social,0.3434705965562883,0.17708236202768024,-
+I wrote well on the tablet,Attempt_Duration__Word_length,Delta_Task,-0.15565571525894745,0.5373937526885915,-
+I wrote well on the tablet,Attempt_Duration__Word_length,Social,0.07616550472495827,0.7714030939576351,-
+I wrote well on the tablet,Attempt_Duration__Word_length,Task,-0.09887751964502359,0.6962820832654018,-
+I wrote well on the tablet,Sent_Word_Duration__Nothing,Baseline,0.15158257266789452,0.3847133051031286,-
+I wrote well on the tablet,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Social",0.19515374804334562,0.45288572149329487,-
+I wrote well on the tablet,Sent_Word_Duration__Nothing,"Delta Logs, Delta_Task",-0.5540472662014283,0.01704180858141197,*
+I wrote well on the tablet,Sent_Word_Duration__Nothing,Delta_Social,0.24719474752157114,0.3388018748168019,-
+I wrote well on the tablet,Sent_Word_Duration__Nothing,Delta_Task,-0.15674421676425473,0.5345166533760514,-
+I wrote well on the tablet,Sent_Word_Duration__Nothing,Social,0.42455216522615624,0.08939618712066404,-
+I wrote well on the tablet,Sent_Word_Duration__Nothing,Task,-0.30652031089957316,0.21603424256784642,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,Baseline,0.09204173702983347,0.5989792028463121,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Social",0.13400557365643065,0.6081215438293144,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,"Delta Logs, Delta_Task",-0.37662152083633427,0.12343186733189243,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,Delta_Social,0.2641080723519944,0.30567651259689005,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,Delta_Task,0.0021770030106146496,0.9931597365935387,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,Social,0.40198460827061305,0.10970745142728733,-
+I wrote well on the tablet,Sent_Word_Duration__Word_length,Task,-0.247193799112559,0.3227007186771489,-
+I wrote well on the tablet,Time_To_Start__Nothing,Baseline,0.0786808397190512,0.6532335073051683,-
+I wrote well on the tablet,Time_To_Start__Nothing,"Delta Logs, Delta_Social",-0.27581729723459514,0.2839164395144851,-
+I wrote well on the tablet,Time_To_Start__Nothing,"Delta Logs, Delta_Task",-0.27865638535867515,0.26283086680105816,-
+I wrote well on the tablet,Time_To_Start__Nothing,Delta_Social,-0.20165887297812382,0.43765809615904483,-
+I wrote well on the tablet,Time_To_Start__Nothing,Delta_Task,-0.3026034184754362,0.2222604485247869,-
+I wrote well on the tablet,Time_To_Start__Nothing,Social,-0.02256755695554319,0.9314893264926872,-
+I wrote well on the tablet,Time_To_Start__Nothing,Task,-0.6525916296571557,0.003328001721036596,**
+I wrote well on the tablet,Time_To_Start__Word_length,Baseline,0.04780232148968771,0.7850933999485896,-
+I wrote well on the tablet,Time_To_Start__Word_length,"Delta Logs, Delta_Social",-0.26931217229981697,0.2958863166777788,-
+I wrote well on the tablet,Time_To_Start__Word_length,"Delta Logs, Delta_Task",-0.19593027095531843,0.43587229976779973,-
+I wrote well on the tablet,Time_To_Start__Word_length,Delta_Social,-0.12359737376078557,0.6364930800340156,-
+I wrote well on the tablet,Time_To_Start__Word_length,Delta_Task,-0.14477070020587418,0.566544099116466,-
+I wrote well on the tablet,Time_To_Start__Word_length,Social,-0.06770267086662957,0.7962691840168582,-
+I wrote well on the tablet,Time_To_Start__Word_length,Task,-0.5636018619766344,0.014856863851199614,*
+I wrote well on the tablet,n_erased__Attempt_Duration,Baseline,-0.07647544819583796,0.6623694933004978,-
+I wrote well on the tablet,n_erased__Attempt_Duration,"Delta Logs, Delta_Social",-0.3369654716215101,0.1859693934358845,-
+I wrote well on the tablet,n_erased__Attempt_Duration,"Delta Logs, Delta_Task",-0.24214763975352221,0.3329930438061618,-
+I wrote well on the tablet,n_erased__Attempt_Duration,Delta_Social,-0.050739974491269865,0.8466499250207149,-
+I wrote well on the tablet,n_erased__Attempt_Duration,Delta_Task,-0.15815949443360686,0.5307863553929382,-
+I wrote well on the tablet,n_erased__Attempt_Duration,Social,-0.4231416929164348,0.09057957154002151,-
+I wrote well on the tablet,n_erased__Attempt_Duration,Task,0.1188986822709128,0.6384245799033699,-
+I wrote well on the tablet,n_erased__Nothing,Baseline,-0.05827989935529897,0.7394743096590888,-
+I wrote well on the tablet,n_erased__Nothing,"Delta Logs, Delta_Social",-0.17043427329118851,0.513108964296707,-
+I wrote well on the tablet,n_erased__Nothing,"Delta Logs, Delta_Task",-0.20833423059875109,0.40676906964278325,-
+I wrote well on the tablet,n_erased__Nothing,Delta_Social,0.28740481377687577,0.2633341064065353,-
+I wrote well on the tablet,n_erased__Nothing,Delta_Task,-0.25207294521456797,0.3129293815322055,-
+I wrote well on the tablet,n_erased__Nothing,Social,-0.14978565965391297,0.5661071306785421,-
+I wrote well on the tablet,n_erased__Nothing,Task,0.004966996338993914,0.9843941496242212,-
+I wrote well on the tablet,n_erased__Word_length,Baseline,-0.07173362874931083,0.6821744384541423,-
+I wrote well on the tablet,n_erased__Word_length,"Delta Logs, Delta_Social",-0.14701582352598705,0.5733906667085049,-
+I wrote well on the tablet,n_erased__Word_length,"Delta Logs, Delta_Task",-0.1810653522481292,0.4721270842614852,-
+I wrote well on the tablet,n_erased__Word_length,Delta_Social,0.22247527276941403,0.39075404811197767,-
+I wrote well on the tablet,n_erased__Word_length,Delta_Task,-0.221538108544663,0.37697637941628737,-
+I wrote well on the tablet,n_erased__Word_length,Social,-0.23272793110403914,0.3687034115083151,-
+I wrote well on the tablet,n_erased__Word_length,Task,0.059480167863551106,0.8146409932108256,-
